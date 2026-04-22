@@ -1,0 +1,5 @@
+[UnitRemoteStart X2AbilityTemplate]
+LocFriendlyName="Remote Start Unit"
+LocLongDescription="Remote Start a unit. Does not reveal the <Ability:ClassName/>."
+LocHelpText="Remote Start a unit. Does not reveal the <Ability:ClassName/>."
+LocPromotionPopupText="<Bullet/> Make sure squadmates are clear of the blast zone!<br/><Bullet/> Remote Start requires <Ability:SelfAmmoCost/> ammo point, and has a <Ability:SelfCooldown/> turn cooldown.<br/>"
