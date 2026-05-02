@@ -1,4 +1,4 @@
-class X2Ability_UnitRemoteStart extends X2Ability config(UniteRemoteStart);
+class X2Ability_UnitRemoteStart extends X2Ability config(UnitRemoteStart);
 
 struct UnitRemoteStartEntry
 {
